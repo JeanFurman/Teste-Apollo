@@ -33,3 +33,7 @@ Retorna o pacote com o nome inserido nos colchetes.
 ```
 
 Retorna os pacotes com a versao inserida nos colchetes.
+
+# Questão 2
+
+Apenas execute o arquivo 'calculo_porcentagem' normalmente.
